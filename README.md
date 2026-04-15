@@ -1,0 +1,1 @@
+Creatin my first project to showcase and review my HTML skills based on the Odin Project.
